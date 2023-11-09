@@ -60,8 +60,10 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: LOKESH N
+### Register Number: 212222100023
+
+![image](https://github.com/lokeshnarayanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393019/a5446297-ca16-461f-bc83-a9e58850a59a)
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
